@@ -12,6 +12,24 @@
 Change Log
 
 
+2021/12/30 #1 : 2021/12/31
+
+
+BUGFIX
+
+
+	Nonnon Paint
+		High DPI : Hamburger Button : three lines : alignment
+			OLD : inaccurate
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2021/12/30
 
 
